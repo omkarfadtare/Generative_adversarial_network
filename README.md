@@ -1,1 +1,1 @@
-# Generative-_adversarial_network-
+# Generative adversarial network
